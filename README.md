@@ -1,10 +1,11 @@
-# 💡 My-Projects
-*Repository dedicated to my personal projects*
+# 💡UnityCampi
+*Repository dedicated to my personal project*
 
 --- 
 
-### _UNITYCAMPI_
-Um projeto de aplicativo pensado pelos alunos: Paulo Otávio, Luis Felipe e João Vitor, da Universidade Federal de Jataí (UFJ). A UnityCampi consiste na conecçãos dos campos Riachuelo e Jatoba, com foco nos estudantes e trabalhadores do próprio instituto. Em que, consiste na junção dos grupos de carona do WhatsaApp, promulgados pelos próprios discentes, em um único aplicativo Android e IOS. 
+### _📍What is UnityCampi_
+It is an application project conceived by students Paulo Otávio, Luis Felipe, and João Vitor from the Federal University of Jataí (UFJ). UnityCampi aims to connect the Riachuelo and Jatoba campuses, focusing on the students and workers of the institute itself. It consolidates the WhatsApp ride-sharing groups, promoted by the students themselves, into a single Android and iOS application.
 
-No qual, os acadêmicos e servidores que possuem algum meio de transporte possa ofercer caronas aos alunos que não queiram pegar o transprote público fornecido pela faculdade, conhecido como "CAJ", um ônibus que em sua grande parte do tempo vai lotado. Sendo assim, muitos universitários opitam por essas caronas, afim de evitar irem espremidos no CAJ.  
+In this app, academics and staff who have some means of transportation can offer rides to students who prefer not to take the public transportation provided by the university, known as "CAJ," a bus that is often overcrowded. Therefore, many students opt for these rides to avoid being crammed into the CAJ.
 
+--- 
